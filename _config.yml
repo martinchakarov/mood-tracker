@@ -2,7 +2,7 @@ title: Mood Tracker
 email: martin.d.chakarov@gmail.com
 description: This is a site to help you keep track of your moods during quarantine.
 destination: docs
-baseurl: "mood-tracker"
+baseurl: "/mood-tracker"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bdmarto
 github_username:  martinchakarov
